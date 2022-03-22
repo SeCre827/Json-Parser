@@ -13,6 +13,7 @@ The basic component is the List. Inside the list we have the listItems. And for 
 to see more details. With that button the ListItemInfo component is rendered. If you press it again the info is hidden. 
 For the dynamic handling of the content I used the useState hook from react. 
 
+![screenshot](https://user-images.githubusercontent.com/75163039/159562249-7735e3ac-cb24-4a71-9eb6-e5d5fa8ec55c.png)
 
 ### Similarities with previous projects of mine
 I have implemented similar solutions to projects like that in the Past. 

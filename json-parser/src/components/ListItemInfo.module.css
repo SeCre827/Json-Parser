@@ -1,0 +1,19 @@
+.tableClass {
+  width: 100%;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.tableClass td {
+  padding: 5px;
+  /* border: 10px solid; */
+}
+
+.tableClass thead > tr {
+  /* background-color: aqua; */
+  border-bottom: 1px solid;
+}
+
+.tableClass tbody > tr {
+  /* background-color: aqua; */
+  border-bottom: 1px solid;
+}

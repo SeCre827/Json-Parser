@@ -3,9 +3,39 @@
   font-size: 16px;
   list-style: none;
   background-color: #e6cdb0;
+  margin-bottom: 32px;
 }
 
 .list-item:hover {
-  cursor: pointer;
   background-color: #ccb69d;
+}
+
+.container {
+  padding: 5px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.container:hover {
+  background-color: #ccb69d;
+}
+
+.item-btn:hover {
+  cursor: pointer;
+  background-color: #e6cdb0;
+}
+
+.item-btn {
+  height: 50%;
+  font-size: 12px;
+  padding: 10px;
+  border-radius: 20%;
+  background-color: inherit;
+}
+
+.content {
+  padding: 32px;
+  border-top: 1px solid black;
 }

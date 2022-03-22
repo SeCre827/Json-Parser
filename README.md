@@ -1,4 +1,4 @@
-# Jason Paraser
+# JSON Parser
 This simple project gets a hardcoded JSON object and renders the content dynamically on the screen. 
 ## Run the project
 To run the project on your local server you have to do the following actions:

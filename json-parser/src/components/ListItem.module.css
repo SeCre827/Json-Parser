@@ -1,5 +1,11 @@
 .list-item {
   text-align: center;
-  font-size: 10px;
+  font-size: 16px;
   list-style: none;
+  background-color: #e6cdb0;
+}
+
+.list-item:hover {
+  cursor: pointer;
+  background-color: #ccb69d;
 }

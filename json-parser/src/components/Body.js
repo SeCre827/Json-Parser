@@ -336,10 +336,9 @@ const content = {
 };
 
 const Body = () => {
-  console.log(content);
   return (
     <div className={classes.contentContainer}>
-      here is your content
+      Here is the content:
       <List content={content} />
     </div>
   );

@@ -17,7 +17,7 @@ For the dynamic handling of the content I used the useState hook from react.
 
 ### Similarities with previous projects of mine
 I have implemented similar solutions to projects like that in the Past. 
-The full stack app (fast charger) that exists in my github repo uses react in the frontend to get Data with API call
-from the backend and display the data in the screen. 
+The full stack app (fast charger) that exists in my github repo uses react in the frontend to get data with API calls
+to the backend and displays the data in the screen. 
 The Burger builder project uses React in a more complex manner in the frontend as well.
 
